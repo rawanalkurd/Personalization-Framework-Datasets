@@ -1,6 +1,6 @@
 # Personalization-Framework-Datasets
 
-This repo includes exemplary Datasets designed based on our proposed personalization framework.
+This repo includes exemplary datasets designed based on our proposed personalization framework.
 
 List of Datasets: 
 
