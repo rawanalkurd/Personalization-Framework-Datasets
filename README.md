@@ -22,7 +22,6 @@
 The dataset generation model is based on the user satisfaction model shown below.  For more details, checkout the references listed at the end of this guide.
 
 ![ZOT-01](https://user-images.githubusercontent.com/26861196/56397585-75fda000-6212-11e9-8199-549a841fddab.png) 
-{ width=50% }
 
 
 ---
@@ -34,7 +33,7 @@ is that they need to be similar to real-world data. In order to create user beha
 > Here is an example of a TG for the working profeesional persoan. 
 
 
-![image](https://user-images.githubusercontent.com/26861196/56598936-7eaff680-65c3-11e9-97e5-f9e543f82c64.png){ width=50% }
+![image](https://user-images.githubusercontent.com/26861196/56598936-7eaff680-65c3-11e9-97e5-f9e543f82c64.png)
 
 
 ---
