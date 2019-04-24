@@ -105,12 +105,12 @@ for mon in range(1,12):
 
 ### User Satisfaction Histogram
 
-![SatisfactionHistogram](Images/SatisfactionHistogram.png)
+![SatisfactionHistogram](A_Synthetic_User_Behavior_Dataset_Design_for_Data_driven_AI_based_Personalized_Wireless_Networks/Images/SatisfactionHistogram.png)
 
 ### User Satisfaction vs. Histogram
 > In order to visualize the correlation between user satisfaction behavior and time period, we plot the user satisfaction histogram vs. time period. 
 
-![SatisfactionVsTBHistogram](Images/SatisfactionVsTBHistogram.png)
+![SatisfactionVsTBHistogram](A_Synthetic_User_Behavior_Dataset_Design_for_Data_driven_AI_based_Personalized_Wireless_Networks/Images/SatisfactionVsTBHistogram.png)
 
 
 ### User Activity Histogram 
@@ -121,31 +121,26 @@ for mon in range(1,12):
 
 * Weekday
 
-![WP-locationVStime_WD_act_plot](Images/WP-locationVStime_WD_act_plot.jpg)
+![WP-locationVStime_WD_act_plot](A_Synthetic_User_Behavior_Dataset_Design_for_Data_driven_AI_based_Personalized_Wireless_Networks/Images/WP-locationVStime_WD_act_plot.jpg)
 
 * Weekend
 
-![WP-locationVStime_WE_act_plot](Images/WP-locationVStime_WE_act_plot.jpg)
+![WP-locationVStime_WE_act_plot](A_Synthetic_User_Behavior_Dataset_Design_for_Data_driven_AI_based_Personalized_Wireless_Networks/Images/WP-locationVStime_WE_act_plot.jpg)
 
 ### Heatmap
 
 > Here we visualize the correlation between the dataset context features through a heatmap.
 
 
-![Heatmap](Images/Heatmap.png) 
+![Heatmap](A_Synthetic_User_Behavior_Dataset_Design_for_Data_driven_AI_based_Personalized_Wireless_Networks/Images/Heatmap.png) 
 
 ###  User location vs. Time period Percentage Plot
 > Here, to visually see the relationship between time period and location for WP persona, we plot the percentage of time the user spent at each location over each time period on a weekday and a weekend day.
 
 * Weekday
 
-![time_loc_wd](Images/time_loc_wd.jpg )
+![time_loc_wd](A_Synthetic_User_Behavior_Dataset_Design_for_Data_driven_AI_based_Personalized_Wireless_Networks/Images/time_loc_wd.jpg )
 
 * Weekend
 
-![time_loc_we](Images/time_loc_we.jpg)
-
-
-```python
-! jupyter nbconvert --to <output format> <input notebook>
-```
+![time_loc_we](A_Synthetic_User_Behavior_Dataset_Design_for_Data_driven_AI_based_Personalized_Wireless_Networks/Images/time_loc_we.jpg)
