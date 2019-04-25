@@ -57,8 +57,8 @@ is that they need to be similar to real-world data. In order to create user beha
   * Part five: http://www.alhaol.com/carleton2019/Personalization-Framework-Datasets/SyntheticUserBehaviorDataset/University_Student_Persona_US/US-Part-five.7z  
   * Part six: http://www.alhaol.com/carleton2019/Personalization-Framework-Datasets/SyntheticUserBehaviorDataset/University_Student_Persona_US/US-Part-six.7z
   
-- High School Student (HSS)
-- Homemaker (HM)
+- High School Student (HSS) : Links will be available soon.
+- Homemaker (HM:  Links will be available soon.
 
 > Each dataset is generated for a one year period. 
 
