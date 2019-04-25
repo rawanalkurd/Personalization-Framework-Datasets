@@ -39,14 +39,27 @@ is that they need to be similar to real-world data. In order to create user beha
 
 ---
 ## Data 
-> The Datatsets can be downloaded from the following link: 
 
-> The Datasets included in this repo represets four users personas:
+> The Datasets included in this repo represets four users personas. The Datatsets can be downloaded from the following link: 
 
 - Working Professional (WP)
-- High School Student (HSS)
+  * Part one: http://www.alhaol.com/carleton2019/Personalization-Framework-Datasets/SyntheticUserBehaviorDataset/Working_Professional_Persona_WP/WP-Part-one.7z
+  * Part two: http://www.alhaol.com/carleton2019/Personalization-Framework-Datasets/SyntheticUserBehaviorDataset/Working_Professional_Persona_WP/WP-Part-two.7z 
+  * Part three: http://www.alhaol.com/carleton2019/Personalization-Framework-Datasets/SyntheticUserBehaviorDataset/Working_Professional_Persona_WP/WP-Part-three.7z
+  * Part four: http://www.alhaol.com/carleton2019/Personalization-Framework-Datasets/SyntheticUserBehaviorDataset/Working_Professional_Persona_WP/WP-Part-four.7z 
+  * Part five: http://www.alhaol.com/carleton2019/Personalization-Framework-Datasets/SyntheticUserBehaviorDataset/Working_Professional_Persona_WP/WP-Part-five.7z
+  * Part six: http://www.alhaol.com/carleton2019/Personalization-Framework-Datasets/SyntheticUserBehaviorDataset/Working_Professional_Persona_WP/WP-Part-six.7z 
+  
 - University student (US)
-- Homemaker (HM)
+  * Part one: http://www.alhaol.com/carleton2019/Personalization-Framework-Datasets/SyntheticUserBehaviorDataset/University_Student_Persona_US/US-Part-one.7z
+  * Part two: http://www.alhaol.com/carleton2019/Personalization-Framework-Datasets/SyntheticUserBehaviorDataset/University_Student_Persona_US/US-Part-two.7z
+  * Part three: http://www.alhaol.com/carleton2019/Personalization-Framework-Datasets/SyntheticUserBehaviorDataset/University_Student_Persona_US/US-Part-three.7z
+  * Part four: http://www.alhaol.com/carleton2019/Personalization-Framework-Datasets/SyntheticUserBehaviorDataset/University_Student_Persona_US/US-Part-four.7z
+  * Part five: http://www.alhaol.com/carleton2019/Personalization-Framework-Datasets/SyntheticUserBehaviorDataset/University_Student_Persona_US/US-Part-five.7z  
+  * Part six: http://www.alhaol.com/carleton2019/Personalization-Framework-Datasets/SyntheticUserBehaviorDataset/University_Student_Persona_US/US-Part-six.7z
+  
+- High School Student (HSS) : Links will be available soon.
+- Homemaker (HM:  Links will be available soon.
 
 > Each dataset is generated for a one year period. 
 
@@ -146,6 +159,3 @@ for mon in range(1,12):
 ![time_loc_we](Images/time_loc_we.jpg)
 
 
-```python
-! jupyter nbconvert --to <output format> <input notebook>
-```
