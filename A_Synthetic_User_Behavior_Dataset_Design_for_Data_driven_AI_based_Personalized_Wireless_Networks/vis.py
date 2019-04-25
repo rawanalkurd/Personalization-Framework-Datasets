@@ -1,8 +1,12 @@
 #!/usr/bin/env python
 # coding: utf-8
 
-# In[16]:
 
+import seaborn as sns
+import numpy as np
+import matplotlib.pyplot as plt
+import pandas as pd 
+import matplotlib
 
 def heatmap_plot(df,x,path):
     #!pip install biokit
@@ -35,13 +39,10 @@ def heatmap_plot(df,x,path):
    
 
 
-# In[17]:
 
 
 def loc_act_plot(df,loc,path):
-        import seaborn as sns
-        import numpy as np
-        import matplotlib.pyplot as plt
+    
 
         sns.set_style("whitegrid")
 
@@ -51,15 +52,11 @@ def loc_act_plot(df,loc,path):
         fig.savefig(path+'_act_plot.jpg',bbox_inches='tight')
 
 
-# In[18]:
+
 
 
 def loc_time_per(df,path):
-    import pandas as pd 
-    import numpy as np
-    import matplotlib.pyplot as plt
-    import seaborn as sns
-    import matplotlib
+
     sns.set_style("white")
 
     TLD=pd.DataFrame({'time':df['Time period'],'location':df['Location name'],'day':df['Day'],'date':df['Date']},columns=['time','location','day','date'])
@@ -183,12 +180,9 @@ def loc_time_per(df,path):
     #plt.show()
 
 
-# In[14]:
 
 
 def count_plot_per(dfsat): 
-    import numpy as np
-    import matplotlib.pyplot as plt
     count=dfsat.value_counts(False)
     count=count.sort_index(axis=0, level=None, ascending=True, inplace=False, sort_remaining=True)
     print(count)
@@ -242,62 +236,6 @@ def count_plot_per(dfsat):
     ax.set_xlabel('Percentage')
 
     plt.show()
-
-
-# In[15]:
-
-
-
-# In[ ]:
-
-
-
-
-
-# In[ ]:
-
-
-
-
-
-# In[ ]:
-
-
-
-
-
-# In[ ]:
-
-
-
-
-
-# In[ ]:
-
-
-
-
-
-# In[ ]:
-
-
-
-
-
-# In[ ]:
-
-
-
-
-
-# In[ ]:
-
-
-
-
-
-# In[ ]:
-
 
 
 
