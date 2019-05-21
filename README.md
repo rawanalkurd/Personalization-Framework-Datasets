@@ -57,8 +57,24 @@ is that they need to be similar to real-world data. In order to create user beha
   * Part five: http://www.alhaol.com/carleton2019/Personalization-Framework-Datasets/SyntheticUserBehaviorDataset/University_Student_Persona_US/US-Part-five.7z  
   * Part six: http://www.alhaol.com/carleton2019/Personalization-Framework-Datasets/SyntheticUserBehaviorDataset/University_Student_Persona_US/US-Part-six.7z
   
-- High School Student (HSS) : Links will be available soon.
-- Homemaker (HM:  Links will be available soon.
+- High School Student (HSS) : 
+  * Part one: http://www.alhaol.com/carleton2019/Personalization-Framework-Datasets/SyntheticUserBehaviorDataset/High_School_Student_Persona_HSS/HSS-Part-one.7z 
+  * Part two: http://www.alhaol.com/carleton2019/Personalization-Framework-Datasets/SyntheticUserBehaviorDataset/High_School_Student_Persona_HSS/HSS-Part-two.7z  
+  * Part three: http://www.alhaol.com/carleton2019/Personalization-Framework-Datasets/SyntheticUserBehaviorDataset/High_School_Student_Persona_HSS/HSS-Part-three.7z  
+  * Part four: http://www.alhaol.com/carleton2019/Personalization-Framework-Datasets/SyntheticUserBehaviorDataset/High_School_Student_Persona_HSS/HSS-Part-four.7z  
+  * Part five: http://www.alhaol.com/carleton2019/Personalization-Framework-Datasets/SyntheticUserBehaviorDataset/High_School_Student_Persona_HSS/HSS-Part-five.7z  
+  * Part six: http://www.alhaol.com/carleton2019/Personalization-Framework-Datasets/SyntheticUserBehaviorDataset/High_School_Student_Persona_HSS/HSS-Part-six.7z  
+
+- Homemaker (HM): 
+ * Part one: http://www.alhaol.com/carleton2019/Personalization-Framework-Datasets/SyntheticUserBehaviorDataset/Home_Maker_Persona_HM/HM-Part-one.7z 
+ * Part two: http://www.alhaol.com/carleton2019/Personalization-Framework-Datasets/SyntheticUserBehaviorDataset/Home_Maker_Persona_HM/HM-Part-two.7z 
+ * Part three: http://www.alhaol.com/carleton2019/Personalization-Framework-Datasets/SyntheticUserBehaviorDataset/Home_Maker_Persona_HM/HM-Part-three.7z
+ * Part four: http://www.alhaol.com/carleton2019/Personalization-Framework-Datasets/SyntheticUserBehaviorDataset/Home_Maker_Persona_HM/HM-Part-four.7z
+ * Part five: http://www.alhaol.com/carleton2019/Personalization-Framework-Datasets/SyntheticUserBehaviorDataset/Home_Maker_Persona_HM/HM-Part-five.7z 
+ * Part six: http://www.alhaol.com/carleton2019/Personalization-Framework-Datasets/SyntheticUserBehaviorDataset/Home_Maker_Persona_HM/HM-Part-six.7z 
+
+
+
 
 > Each dataset is generated for a one year period. 
 
