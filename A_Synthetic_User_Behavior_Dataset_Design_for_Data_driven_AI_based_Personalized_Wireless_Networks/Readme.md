@@ -43,37 +43,37 @@ is that they need to be similar to real-world data. In order to create user beha
 > The Datasets included in this repo represets four users personas. The Datatsets can be downloaded from the following link: 
 
 - Working Professional (WP)
-  * Part one: http://www.alhaol.com/carleton2019/Personalization-Framework-Datasets/SyntheticUserBehaviorDataset/Working_Professional_Persona_WP/WP-Part-one.7z
-  * Part two: http://www.alhaol.com/carleton2019/Personalization-Framework-Datasets/SyntheticUserBehaviorDataset/Working_Professional_Persona_WP/WP-Part-two.7z 
-  * Part three: http://www.alhaol.com/carleton2019/Personalization-Framework-Datasets/SyntheticUserBehaviorDataset/Working_Professional_Persona_WP/WP-Part-three.7z
-  * Part four: http://www.alhaol.com/carleton2019/Personalization-Framework-Datasets/SyntheticUserBehaviorDataset/Working_Professional_Persona_WP/WP-Part-four.7z 
-  * Part five: http://www.alhaol.com/carleton2019/Personalization-Framework-Datasets/SyntheticUserBehaviorDataset/Working_Professional_Persona_WP/WP-Part-five.7z
-  * Part six: http://www.alhaol.com/carleton2019/Personalization-Framework-Datasets/SyntheticUserBehaviorDataset/Working_Professional_Persona_WP/WP-Part-six.7z 
+  * Part one: https://drive.google.com/open?id=1ZsoudRUhkmvOxs4mT9otR89e9wKIaj9_
+  * Part two: https://drive.google.com/open?id=1lJenUmksdfDKM8GX7rv1YIAcnAZorv_E
+  * Part three: https://drive.google.com/open?id=1UcpXJOd5MWsWSueB-fAW8DToArDWtqaA
+  * Part four: https://drive.google.com/open?id=1RwguhiPqgwrjvgXcNwrT8OhQjhUsWHl7 
+  * Part five:https://drive.google.com/open?id=1b7XlEsNXKfZGhwQJCZG-9DgTo3MM9Bnt 
+  * Part six: https://drive.google.com/open?id=1kc5guHnzulRnLYandAZm3t8Enty2lwMc
   
 - University student (US)
-  * Part one: http://www.alhaol.com/carleton2019/Personalization-Framework-Datasets/SyntheticUserBehaviorDataset/University_Student_Persona_US/US-Part-one.7z
-  * Part two: http://www.alhaol.com/carleton2019/Personalization-Framework-Datasets/SyntheticUserBehaviorDataset/University_Student_Persona_US/US-Part-two.7z
-  * Part three: http://www.alhaol.com/carleton2019/Personalization-Framework-Datasets/SyntheticUserBehaviorDataset/University_Student_Persona_US/US-Part-three.7z
-  * Part four: http://www.alhaol.com/carleton2019/Personalization-Framework-Datasets/SyntheticUserBehaviorDataset/University_Student_Persona_US/US-Part-four.7z
-  * Part five: http://www.alhaol.com/carleton2019/Personalization-Framework-Datasets/SyntheticUserBehaviorDataset/University_Student_Persona_US/US-Part-five.7z  
-  * Part six: http://www.alhaol.com/carleton2019/Personalization-Framework-Datasets/SyntheticUserBehaviorDataset/University_Student_Persona_US/US-Part-six.7z
-  
+  * Part one: https://drive.google.com/open?id=1xpv8p3wQS_KzL_H4f8q6IhiwiOKlaq78
+  * Part two: https://drive.google.com/open?id=188_SbIt0bp3NmawDOxrIoO67R6spcLRR
+  * Part three: https://drive.google.com/open?id=1g1JJMyLDIEkJaBxwVSCPqJtf-F0Nu3fq
+  * Part four: https://drive.google.com/open?id=17m0YtYIc5ZdKdmK9IPT2W3auhxGpaxrs
+  * Part five: https://drive.google.com/open?id=1PVTIRLEcSLCUjW9KCmfB5AAXHkF-onp5
+  * Part six: https://drive.google.com/open?id=1G8a9IgM2ykJnZQG3rGbgClmx3tHtbsua
   
 - High School Student (HSS) : 
-  * Part one: http://www.alhaol.com/carleton2019/Personalization-Framework-Datasets/SyntheticUserBehaviorDataset/High_School_Student_Persona_HSS/HSS-Part-one.7z 
-  * Part two: http://www.alhaol.com/carleton2019/Personalization-Framework-Datasets/SyntheticUserBehaviorDataset/High_School_Student_Persona_HSS/HSS-Part-two.7z  
-  * Part three: http://www.alhaol.com/carleton2019/Personalization-Framework-Datasets/SyntheticUserBehaviorDataset/High_School_Student_Persona_HSS/HSS-Part-three.7z  
-  * Part four: http://www.alhaol.com/carleton2019/Personalization-Framework-Datasets/SyntheticUserBehaviorDataset/High_School_Student_Persona_HSS/HSS-Part-four.7z  
-  * Part five: http://www.alhaol.com/carleton2019/Personalization-Framework-Datasets/SyntheticUserBehaviorDataset/High_School_Student_Persona_HSS/HSS-Part-five.7z  
-  * Part six: http://www.alhaol.com/carleton2019/Personalization-Framework-Datasets/SyntheticUserBehaviorDataset/High_School_Student_Persona_HSS/HSS-Part-six.7z  
+  * Part one: https://drive.google.com/file/d/17-LZeIHArjJGKVSOLqOr0pxcjMwyf4fi/view?usp=sharing
+  * Part two: https://drive.google.com/open?id=1knTtGTIjx64UXjHNdzwnJ8H4CtYsEk84  
+  * Part three: https://drive.google.com/open?id=1XEfrQg7oT3FzHvFszrIgbIlIPmcZjQup 
+  * Part four: https://drive.google.com/file/d/1cZusUhgzSRmwVgu-Y6sqIp2_nRegYn1N/view?usp=sharing
+  * Part five: https://drive.google.com/open?id=13QNN0Lfg_Twt1gUARn3Eqs0QT0FoCwmN 
+  * Part six: https://drive.google.com/open?id=1Y6CVcmioPPzGTAgKewT2svhyJlvBH1tc 
 
 - Homemaker (HM): 
- * Part one: http://www.alhaol.com/carleton2019/Personalization-Framework-Datasets/SyntheticUserBehaviorDataset/Home_Maker_Persona_HM/HM-Part-one.7z 
- * Part two: http://www.alhaol.com/carleton2019/Personalization-Framework-Datasets/SyntheticUserBehaviorDataset/Home_Maker_Persona_HM/HM-Part-two.7z 
- * Part three: http://www.alhaol.com/carleton2019/Personalization-Framework-Datasets/SyntheticUserBehaviorDataset/Home_Maker_Persona_HM/HM-Part-three.7z
- * Part four: http://www.alhaol.com/carleton2019/Personalization-Framework-Datasets/SyntheticUserBehaviorDataset/Home_Maker_Persona_HM/HM-Part-four.7z
- * Part five: http://www.alhaol.com/carleton2019/Personalization-Framework-Datasets/SyntheticUserBehaviorDataset/Home_Maker_Persona_HM/HM-Part-five.7z 
- * Part six: http://www.alhaol.com/carleton2019/Personalization-Framework-Datasets/SyntheticUserBehaviorDataset/Home_Maker_Persona_HM/HM-Part-six.7z 
+ * Part one: https://drive.google.com/file/d/1PBIuS2xrW-iR9S5QzQRrdztZrQNHbNRf/view?usp=sharing 
+ * Part two: https://drive.google.com/open?id=10XtE4P5pFiJ63gixym3bcX_UnIPmi83q
+ * Part three: https://drive.google.com/open?id=1WCEcaunEHQrqegKddkJ8RXPwdyi64IMU
+ * Part four: https://drive.google.com/open?id=1kjDFZ2y932lS-UJOFOMAZjkYkYvZMzAt
+ * Part five: https://drive.google.com/open?id=1bKD80GORsTUOYYNWgaM7S756gsvumH_H 
+ * Part six: https://drive.google.com/open?id=1gy-ElNcogqyud_3oY42pI4wtApyzeUjX
+
 
 > Each dataset is generated for a one year period. 
 
