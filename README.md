@@ -62,16 +62,16 @@ is that they need to be similar to real-world data. In order to create user beha
   * Part two: http://www.alhaol.com/carleton2019/Personalization-Framework-Datasets/SyntheticUserBehaviorDataset/High_School_Student_Persona_HSS/HSS-Part-two.7z  
   * Part three: http://www.alhaol.com/carleton2019/Personalization-Framework-Datasets/SyntheticUserBehaviorDataset/High_School_Student_Persona_HSS/HSS-Part-three.7z  
   * Part four: http://www.alhaol.com/carleton2019/Personalization-Framework-Datasets/SyntheticUserBehaviorDataset/High_School_Student_Persona_HSS/HSS-Part-four.7z  
-  * Part five: http://www.alhaol.com/carleton2019/Personalization-Framework-Datasets/SyntheticUserBehaviorDataset/High_School_Student_Persona_HSS/HSS-Part-five.7z  
-  * Part six: http://www.alhaol.com/carleton2019/Personalization-Framework-Datasets/SyntheticUserBehaviorDataset/High_School_Student_Persona_HSS/HSS-Part-six.7z  
+  * Part five: https://drive.google.com/open?id=13QNN0Lfg_Twt1gUARn3Eqs0QT0FoCwmN 
+  * Part six: https://drive.google.com/open?id=1Y6CVcmioPPzGTAgKewT2svhyJlvBH1tc 
 
 - Homemaker (HM): 
- * Part one: http://www.alhaol.com/carleton2019/Personalization-Framework-Datasets/SyntheticUserBehaviorDataset/Home_Maker_Persona_HM/HM-Part-one.7z 
- * Part two: http://www.alhaol.com/carleton2019/Personalization-Framework-Datasets/SyntheticUserBehaviorDataset/Home_Maker_Persona_HM/HM-Part-two.7z 
- * Part three: http://www.alhaol.com/carleton2019/Personalization-Framework-Datasets/SyntheticUserBehaviorDataset/Home_Maker_Persona_HM/HM-Part-three.7z
- * Part four: http://www.alhaol.com/carleton2019/Personalization-Framework-Datasets/SyntheticUserBehaviorDataset/Home_Maker_Persona_HM/HM-Part-four.7z
- * Part five: http://www.alhaol.com/carleton2019/Personalization-Framework-Datasets/SyntheticUserBehaviorDataset/Home_Maker_Persona_HM/HM-Part-five.7z 
- * Part six: http://www.alhaol.com/carleton2019/Personalization-Framework-Datasets/SyntheticUserBehaviorDataset/Home_Maker_Persona_HM/HM-Part-six.7z 
+ * Part one: https://drive.google.com/file/d/1PBIuS2xrW-iR9S5QzQRrdztZrQNHbNRf/view?usp=sharing 
+ * Part two: https://drive.google.com/open?id=10XtE4P5pFiJ63gixym3bcX_UnIPmi83q
+ * Part three: https://drive.google.com/open?id=1WCEcaunEHQrqegKddkJ8RXPwdyi64IMU
+ * Part four: https://drive.google.com/open?id=1kjDFZ2y932lS-UJOFOMAZjkYkYvZMzAt
+ * Part five: https://drive.google.com/open?id=1bKD80GORsTUOYYNWgaM7S756gsvumH_H 
+ * Part six: https://drive.google.com/open?id=1gy-ElNcogqyud_3oY42pI4wtApyzeUjX
 
 
 
